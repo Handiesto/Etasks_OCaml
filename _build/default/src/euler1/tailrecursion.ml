@@ -10,4 +10,4 @@ let rec nth_prime n i count =
   else nth_prime n (i + 1) count
 
 let result = nth_prime 632 2 0
-let () = print_int (result-1)
+(*let () = print_int (result-1)*)

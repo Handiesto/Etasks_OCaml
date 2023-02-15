@@ -10,7 +10,7 @@ let nth_prime n =
     else if is_prime i then search (i + 1) (count + 1)
     else search (i + 1) count
   in
-  search 2 0)-1
+  search 2 0) - 1
 
 let result = nth_prime 10001
 (*let () = print_int (result);

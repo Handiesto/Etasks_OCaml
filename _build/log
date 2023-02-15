@@ -3,7 +3,7 @@
 # Shared cache: disabled
 # Workspace root: /Users/klim/Desktop/lab11_FP
 # Auto-detected concurrency: 10
-$ /opt/homebrew/bin/ocamlc.opt -config > /var/folders/v5/lkcktmys2_l5q6s4syd1bkhh0000gn/T/dune_108b74_output
+$ /opt/homebrew/bin/ocamlc.opt -config > /var/folders/v5/lkcktmys2_l5q6s4syd1bkhh0000gn/T/dune_48aa58_output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"
@@ -110,3 +110,27 @@ $ /opt/homebrew/bin/ocamlc.opt -config > /var/folders/v5/lkcktmys2_l5q6s4syd1bkh
 #      ; windows_unicode = false
 #      }
 #  }
+$ (cd _build/default && /opt/homebrew/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I src/euler1/.tailrecursion.objs/byte -no-alias-deps -opaque -o src/euler1/.tailrecursion.objs/byte/tailrecursion.cmo -c -impl src/euler1/tailrecursion.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I src/euler1/.recursion.objs/byte -no-alias-deps -opaque -o src/euler1/.recursion.objs/byte/recursion.cmo -c -impl src/euler1/recursion.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I src/euler2/.recursion2.objs/byte -no-alias-deps -opaque -o src/euler2/.recursion2.objs/byte/recursion2.cmo -c -impl src/euler2/recursion2.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I src/euler2/.tailrecursion2.objs/byte -no-alias-deps -opaque -o src/euler2/.tailrecursion2.objs/byte/tailrecursion2.cmo -c -impl src/euler2/tailrecursion2.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I test/.euler1.eobjs/byte -I src/euler1/.map.objs/byte -I src/euler1/.recursion.objs/byte -I src/euler1/.tailrecursion.objs/byte -no-alias-deps -opaque -o test/.euler1.eobjs/byte/dune__exe__Euler1.cmo -c -impl test/euler1.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I test/.euler2.eobjs/byte -I src/euler2/.recursion2.objs/byte -I src/euler2/.tailrecursion2.objs/byte -no-alias-deps -opaque -o test/.euler2.eobjs/byte/dune__exe__Euler2.cmo -c -impl test/euler2.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/euler1/.tailrecursion.objs/byte -I src/euler1/.tailrecursion.objs/native -intf-suffix .ml -no-alias-deps -opaque -o src/euler1/.tailrecursion.objs/native/tailrecursion.cmx -c -impl src/euler1/tailrecursion.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I test/.euler1.eobjs/byte -I test/.euler1.eobjs/native -I src/euler1/.map.objs/byte -I src/euler1/.map.objs/native -I src/euler1/.recursion.objs/byte -I src/euler1/.recursion.objs/native -I src/euler1/.tailrecursion.objs/byte -I src/euler1/.tailrecursion.objs/native -intf-suffix .ml -no-alias-deps -opaque -o test/.euler1.eobjs/native/dune__exe__Euler1.cmx -c -impl test/euler1.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/euler1/.recursion.objs/byte -I src/euler1/.recursion.objs/native -intf-suffix .ml -no-alias-deps -opaque -o src/euler1/.recursion.objs/native/recursion.cmx -c -impl src/euler1/recursion.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/euler2/.tailrecursion2.objs/byte -I src/euler2/.tailrecursion2.objs/native -intf-suffix .ml -no-alias-deps -opaque -o src/euler2/.tailrecursion2.objs/native/tailrecursion2.cmx -c -impl src/euler2/tailrecursion2.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/euler2/.recursion2.objs/byte -I src/euler2/.recursion2.objs/native -intf-suffix .ml -no-alias-deps -opaque -o src/euler2/.recursion2.objs/native/recursion2.cmx -c -impl src/euler2/recursion2.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I test/.euler2.eobjs/byte -I test/.euler2.eobjs/native -I src/euler2/.recursion2.objs/byte -I src/euler2/.recursion2.objs/native -I src/euler2/.tailrecursion2.objs/byte -I src/euler2/.tailrecursion2.objs/native -intf-suffix .ml -no-alias-deps -opaque -o test/.euler2.eobjs/native/dune__exe__Euler2.cmx -c -impl test/euler2.ml)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -a -o src/euler1/tailrecursion.cmxa src/euler1/.tailrecursion.objs/native/tailrecursion.cmx)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -a -o src/euler2/recursion2.cmxa src/euler2/.recursion2.objs/native/recursion2.cmx)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -a -o src/euler2/tailrecursion2.cmxa src/euler2/.tailrecursion2.objs/native/tailrecursion2.cmx)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -a -o src/euler1/recursion.cmxa src/euler1/.recursion.objs/native/recursion.cmx)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o test/euler2.exe src/euler2/recursion2.cmxa src/euler2/tailrecursion2.cmxa test/.euler2.eobjs/native/dune__exe__Euler2.cmx)
+$ (cd _build/default && /opt/homebrew/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o test/euler1.exe src/euler1/map.cmxa src/euler1/recursion.cmxa src/euler1/tailrecursion.cmxa test/.euler1.eobjs/native/dune__exe__Euler1.cmx)
+$ (cd _build/default/test && ./euler2.exe)
+> 2783915460
+> 2783915460
+> Tests passed...
+$ (cd _build/default/test && ./euler1.exe)
+> Tests passed...
