@@ -1,0 +1,26 @@
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 4 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 15
+type(
+  unit -> unit
+)
+ident(
+  def hello_world "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 52 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 0 0 -1
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 16 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 18
+type(
+  unit
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 21 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 34
+type(
+  (unit, Format.formatter, unit) format -> unit
+)
+ident(
+  int_ref Stdlib.Format.printf "format.mli" 1241 47848 47848 "format.mli" 1241 47848 47895
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 35 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 52
+type(
+  (unit, Format.formatter, unit) format
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 21 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.ml" 1 0 52
+type(
+  unit
+)

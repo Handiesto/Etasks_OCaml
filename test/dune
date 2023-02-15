@@ -1,0 +1,9 @@
+(test
+ (name euler1)
+ (modules euler1)
+ (libraries map recursion tailrecursion))
+
+(test
+ (name euler2)
+ (modules euler2)
+ (libraries recursion2 tailrecursion2))

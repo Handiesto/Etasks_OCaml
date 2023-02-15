@@ -1,0 +1,836 @@
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 8 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 11
+type(
+  ('a -> 'b) -> 'a list -> 'b list
+)
+ident(
+  def map "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 0 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 0 0 -1
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 12 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 13
+type(
+  'a -> 'b
+)
+ident(
+  def f "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 14 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 80
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 14 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 17
+type(
+  'a list
+)
+ident(
+  def lst "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 2 20 22 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 80
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 2 20 28 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 2 20 31
+type(
+  'a list
+)
+ident(
+  int_ref lst "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 14 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 17
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 3 37 41 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 3 37 43
+type(
+  'a list
+)
+type(
+  'a list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 3 37 47 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 3 37 49
+type(
+  'b list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 54 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 55
+type(
+  'a
+)
+ident(
+  def x "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 65 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 80
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 59 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 61
+type(
+  'a list
+)
+ident(
+  def xs "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 65 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 80
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 54 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 61
+type(
+  'a list
+)
+type(
+  'a list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 65 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 66
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 12 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 13
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 67 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 68
+type(
+  'a
+)
+ident(
+  int_ref x "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 54 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 55
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 65 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 68
+type(
+  'b
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 72 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 75
+type(
+  ('a -> 'b) -> 'a list -> 'b list
+)
+ident(
+  int_ref map "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 8 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 11
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 76 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 77
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 12 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 13
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 78 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 80
+type(
+  'a list
+)
+ident(
+  int_ref xs "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 59 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 61
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 72 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 80
+type(
+  'b list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 65 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 80
+type(
+  'b list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 2 20 22 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 4 50 80
+type(
+  'b list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 86 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 94
+type(
+  int -> bool
+)
+ident(
+  def is_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 270 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 0 0 -1
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 95 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 96
+type(
+  int
+)
+ident(
+  def n "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 101 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 268
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 105 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 110
+type(
+  int
+)
+ident(
+  def limit "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 155 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 268
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 113 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 125
+type(
+  float -> int
+)
+ident(
+  int_ref Stdlib.int_of_float "stdlib.mli" 650 24534 24534 "stdlib.mli" 650 24534 24586
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 127 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 131
+type(
+  float -> float
+)
+ident(
+  int_ref Stdlib.sqrt "stdlib.mli" 488 18629 18629 "stdlib.mli" 489 18687 18712
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 133 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 145
+type(
+  int -> float
+)
+ident(
+  int_ref Stdlib.float_of_int "stdlib.mli" 644 24346 24346 "stdlib.mli" 644 24346 24398
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 146 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 147
+type(
+  int
+)
+ident(
+  int_ref n "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 95 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 96
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 132 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 148
+type(
+  float
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 126 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 149
+type(
+  float
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 113 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 149
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 163 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 177
+type(
+  int -> bool
+)
+ident(
+  def is_not_divisor "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 155 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 268
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 178 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 179
+type(
+  int
+)
+ident(
+  def d "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 186 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 237
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 186 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 187
+type(
+  int
+)
+ident(
+  int_ref d "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 178 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 179
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 188 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 189
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 190 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 195
+type(
+  int
+)
+ident(
+  int_ref limit "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 105 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 110
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 186 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 195
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 196 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 198
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( || ) "stdlib.mli" 227 9492 9492 "stdlib.mli" 227 9492 9542
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 200 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 201
+type(
+  int
+)
+ident(
+  int_ref n "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 95 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 96
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 202 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 205
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( mod ) "stdlib.mli" 373 14550 14550 "stdlib.mli" 373 14550 14598
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 206 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 207
+type(
+  int
+)
+ident(
+  int_ref d "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 178 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 179
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 200 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 207
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 208 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 210
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( <> ) "stdlib.mli" 130 5559 5559 "stdlib.mli" 130 5559 5607
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 211 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 212
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 200 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 212
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 213 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 215
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 216 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 230
+type(
+  int -> bool
+)
+ident(
+  int_ref is_not_divisor "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 163 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 177
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 232 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 233
+type(
+  int
+)
+ident(
+  int_ref d "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 178 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 179
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 233 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 234
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 234 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 235
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 231 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 236
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 216 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 236
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 199 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 237
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 186 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 9 182 237
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 243 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 244
+type(
+  int
+)
+ident(
+  int_ref n "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 95 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 96
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 245 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 246
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 247 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 248
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 243 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 248
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 249 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 251
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 252 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 266
+type(
+  int -> bool
+)
+ident(
+  int_ref is_not_divisor "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 163 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 177
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 267 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 268
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 252 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 268
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 243 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 268
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 8 153 155 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 268
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 7 99 101 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 10 238 268
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 278 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 283
+type(
+  int -> int -> int list
+)
+ident(
+  def range "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 270 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 0 0 -1
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 284 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 285
+type(
+  int
+)
+ident(
+  def a "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 286 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 334
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 286 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 287
+type(
+  int
+)
+ident(
+  def b "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 292 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 334
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 295 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 296
+type(
+  int
+)
+ident(
+  int_ref a "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 284 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 285
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 297 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 298
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 299 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 300
+type(
+  int
+)
+ident(
+  int_ref b "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 286 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 287
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 295 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 300
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 306 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 308
+type(
+  int list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 316 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 317
+type(
+  int
+)
+ident(
+  int_ref a "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 284 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 285
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 321 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 326
+type(
+  int -> int -> int list
+)
+ident(
+  int_ref range "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 278 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 283
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 328 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 329
+type(
+  int
+)
+ident(
+  int_ref a "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 284 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 285
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 329 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 330
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 330 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 331
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 327 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 332
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 333 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 334
+type(
+  int
+)
+ident(
+  int_ref b "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 286 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 287
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 321 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 334
+type(
+  int list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 316 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 334
+type(
+  int list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 13 290 292 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 14 309 334
+type(
+  int list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 16 336 340 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 16 336 349
+type(
+  int -> int
+)
+ident(
+  def nth_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 23 521 521 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 0 0 -1
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 16 336 350 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 16 336 351
+type(
+  int
+)
+ident(
+  def n "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 356 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 519
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 364 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 378
+type(
+  int -> int -> int
+)
+ident(
+  def find_nth_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 356 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 519
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 379 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 380
+type(
+  int
+)
+ident(
+  def i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 381 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 495
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 381 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 382
+type(
+  int
+)
+ident(
+  def p "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 389 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 495
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 392 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 393
+type(
+  int
+)
+ident(
+  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 379 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 380
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 394 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 395
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 396 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 397
+type(
+  int
+)
+ident(
+  int_ref n "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 16 336 350 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 16 336 351
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 392 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 397
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 403 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 404
+type(
+  int
+)
+ident(
+  int_ref p "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 381 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 382
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 417 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 425
+type(
+  int -> bool
+)
+ident(
+  int_ref is_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 86 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 6 82 94
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 427 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 428
+type(
+  int
+)
+ident(
+  int_ref p "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 381 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 382
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 428 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 429
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 429 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 430
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 426 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 431
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 417 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 431
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 437 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 451
+type(
+  int -> int -> int
+)
+ident(
+  int_ref find_nth_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 364 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 378
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 453 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 454
+type(
+  int
+)
+ident(
+  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 379 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 380
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 454 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 455
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 455 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 456
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 452 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 457
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 459 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 460
+type(
+  int
+)
+ident(
+  int_ref p "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 381 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 382
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 460 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 461
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 461 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 462
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 458 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 463
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 437 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 463
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 473 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 487
+type(
+  int -> int -> int
+)
+ident(
+  int_ref find_nth_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 364 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 378
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 488 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 489
+type(
+  int
+)
+ident(
+  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 379 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 380
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 491 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 492
+type(
+  int
+)
+ident(
+  int_ref p "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 381 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 382
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 492 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 493
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 493 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 494
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 490 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 495
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 473 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 495
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 19 405 414 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 495
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 18 385 389 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 20 464 495
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 501 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 515
+type(
+  int -> int -> int
+)
+ident(
+  int_ref find_nth_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 364 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 378
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 516 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 517
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 518 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 519
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 501 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 519
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 17 354 356 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 21 496 519
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 23 521 525 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 23 521 531
+type(
+  int
+)
+ident(
+  def result "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 26 622 622 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 0 0 -1
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 540 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 544
+type(
+  int list
+)
+ident(
+  def nums "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 586 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 621
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 547 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 550
+type(
+  (int -> int) -> int list -> int list
+)
+ident(
+  int_ref map "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 8 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 1 0 11
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 556 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 557
+type(
+  int
+)
+ident(
+  def x "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 561 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 564
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 561 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 562
+type(
+  int
+)
+ident(
+  int_ref x "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 556 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 557
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 562 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 563
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 563 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 564
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 561 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 564
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 551 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 565
+type(
+  int -> int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 567 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 572
+type(
+  int -> int -> int list
+)
+ident(
+  int_ref range "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 278 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 12 270 283
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 573 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 574
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 575 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 579
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 566 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 580
+type(
+  int list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 547 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 580
+type(
+  int list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 586 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 595
+type(
+  int -> int
+)
+ident(
+  int_ref nth_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 16 336 340 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 16 336 349
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 597 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 604
+type(
+  int list -> int
+)
+ident(
+  int_ref Stdlib.List.hd "list.mli" 65 2780 2780 "list.mli" 65 2780 2802
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 606 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 614
+type(
+  int list -> int list
+)
+ident(
+  int_ref Stdlib.List.rev "list.mli" 90 3519 3519 "list.mli" 90 3519 3547
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 615 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 619
+type(
+  int list
+)
+ident(
+  int_ref nums "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 540 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 544
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 605 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 620
+type(
+  int list
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 596 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 621
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 586 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 621
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 24 534 536 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 25 584 621
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 26 622 626 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 26 622 628
+type(
+  unit
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 26 622 631 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 26 622 640
+type(
+  int -> unit
+)
+ident(
+  int_ref Stdlib.print_int "stdlib.mli" 860 31426 31426 "stdlib.mli" 860 31426 31453
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 26 622 641 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 26 622 649
+type(
+  int
+)
+ident(
+  int_ref result "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 23 521 525 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 23 521 531
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 26 622 631 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/map.ml" 26 622 649
+type(
+  unit
+)

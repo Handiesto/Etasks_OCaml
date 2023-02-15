@@ -1,0 +1,19 @@
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/test_hello_world.ml" 3 18 22 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/test_hello_world.ml" 3 18 23
+type(
+  unit
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/test_hello_world.ml" 3 18 26 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/test_hello_world.ml" 3 18 37
+type(
+  unit -> unit
+)
+ident(
+  int_ref Hello_world.hello_world "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.mli" 1 0 0 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/hello_world.mli" 1 0 30
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/test_hello_world.ml" 3 18 38 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/test_hello_world.ml" 3 18 40
+type(
+  unit
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/test_hello_world.ml" 3 18 26 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/test_hello_world.ml" 3 18 40
+type(
+  unit
+)
