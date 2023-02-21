@@ -1,10 +1,10 @@
 open! Recursion
 open! Tailrecursion
 open! Map
-
+open! Infinity_list
 let test() =
    let expected = 80863 in
-   let actual = Recursion.nth_prime 7915 in
+   let actual = infinity_list.nth_prime 7915 in
    assert (expected = actual);
 
    let expected = 4517 in

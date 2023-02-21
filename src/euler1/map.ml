@@ -15,9 +15,10 @@ let rec range a b =
 
 let nth_prime n =
   let rec find_nth_prime i p =
-    if i = n then p
-    else if is_prime (p + 1) then find_nth_prime (i + 1) (p + 1)
-    else find_nth_prime i (p + 1)
+    match i = n, is_prime (p + 1) with
+    | true, _ -> p
+    | _, true -> find_nth_prime (i + 1) (p + 1)
+    | _ -> find_nth_prime i (p + 1)
   in find_nth_prime 1 2
 
 let result =

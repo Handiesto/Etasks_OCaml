@@ -221,246 +221,291 @@ type(
   int -> int
 )
 ident(
-  def nth_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 318 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 0 0 -1
+  def nth_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 346 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 0 0 -1
 )
 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 7 139 153 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 7 139 154
 type(
   int
 )
 ident(
-  def n "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 159 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 316
+  def n "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 159 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 344
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 168 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 174
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 167 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 173
 type(
   int -> int -> int
 )
 ident(
-  def search "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 159 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 312
+  def search "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 159 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 344
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 174 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175
 type(
   int
 )
 ident(
-  def i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 177 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 293
+  def i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 324
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 177 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 182
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 181
 type(
   int
 )
 ident(
-  def count "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 189 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 293
+  def count "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 188 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 324
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 192 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 197
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 194 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 199
 type(
   int
 )
 ident(
-  int_ref count "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 177 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 182
+  int_ref count "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 181
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 198 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 199
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 200 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 201
 type(
   int -> int -> bool
 )
 ident(
   int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 200 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 201
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 202 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 203
 type(
   int
 )
 ident(
   int_ref n "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 7 139 153 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 7 139 154
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 192 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 201
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 194 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 203
 type(
   bool
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 207 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 208
-type(
-  int
-)
-ident(
-  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 221 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 229
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 205 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 213
 type(
   int -> bool
 )
 ident(
   int_ref is_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 1 0 4 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 1 0 12
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 230 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 231
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 214 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 215
 type(
   int
 )
 ident(
-  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176
+  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 174 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 221 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 231
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 205 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 215
 type(
   bool
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 237 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 243
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 194 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 215
+type(
+  bool * bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 221 227 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 221 231
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 221 233 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 221 234
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 221 227 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 221 234
+type(
+  bool * bool
+)
+type(
+  bool * bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 221 238 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 221 239
+type(
+  int
+)
+ident(
+  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 174 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 246 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 251
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 253 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 257
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 246 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 257
+type(
+  bool * bool
+)
+type(
+  bool * bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 261 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 267
 type(
   int -> int -> int
 )
 ident(
-  int_ref search "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 168 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 174
+  int_ref search "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 167 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 173
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 245 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 246
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 269 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 270
 type(
   int
 )
 ident(
-  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176
+  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 174 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 247 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 248
-type(
-  int -> int -> int
-)
-ident(
-  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 249 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 250
-type(
-  int
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 244 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 251
-type(
-  int
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 253 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 258
-type(
-  int
-)
-ident(
-  int_ref count "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 177 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 182
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 259 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 260
-type(
-  int -> int -> int
-)
-ident(
-  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 261 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 262
-type(
-  int
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 252 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 263
-type(
-  int
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 237 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 263
-type(
-  int
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 273 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 279
-type(
-  int -> int -> int
-)
-ident(
-  int_ref search "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 168 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 174
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 281 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 282
-type(
-  int
-)
-ident(
-  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 283 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 284
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 270 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 271
 type(
   int -> int -> int
 )
 ident(
   int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 285 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 286
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 271 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 272
 type(
   int
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 280 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 287
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 268 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 273
 type(
   int
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 288 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 293
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 275 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 280
 type(
   int
 )
 ident(
-  int_ref count "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 177 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 182
+  int_ref count "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 181
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 273 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 293
-type(
-  int
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 10 209 218 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 293
-type(
-  int
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 185 189 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 264 293
-type(
-  int
-)
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 301 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 307
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 280 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 281
 type(
   int -> int -> int
 )
 ident(
-  int_ref search "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 168 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 174
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 308 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 309
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 281 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 282
 type(
   int
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 310 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 311
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 274 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 283
 type(
   int
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 301 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 311
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 261 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 11 240 283
 type(
   int
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 159 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 312
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 290 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 295
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 297 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 302
+type(
+  bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 290 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 302
+type(
+  bool * bool
+)
+type(
+  bool * bool
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 306 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 312
+type(
+  int -> int -> int
+)
+ident(
+  int_ref search "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 167 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 173
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 314 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 315
 type(
   int
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 313 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 314
+ident(
+  int_ref i "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 174 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 175
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 315 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 316
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 316 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 317
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 313 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 318
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 319 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 324
+type(
+  int
+)
+ident(
+  int_ref count "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 176 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 181
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 306 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 324
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 9 184 188 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 12 284 324
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 330 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 336
+type(
+  int -> int -> int
+)
+ident(
+  int_ref search "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 167 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 173
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 337 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 338
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 339 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 340
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 330 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 340
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 341 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 342
 type(
   int -> int -> int
 )
 ident(
   int_ref Stdlib.( - ) "stdlib.mli" 352 13775 13775 "stdlib.mli" 352 13775 13821
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 315 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 316
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 343 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 344
 type(
   int
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 159 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 299 316
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 330 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 344
 type(
   int
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 322 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 328
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 8 157 159 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 13 325 344
+type(
+  int
+)
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 350 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 356
 type(
   int
 )
 ident(
-  def result "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 346 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 0 0 -1
+  def result "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 374 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 0 0 -1
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 331 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 340
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 359 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 368
 type(
   int -> int
 )
 ident(
   int_ref nth_prime "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 7 139 143 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 7 139 152
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 341 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 346
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 369 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 374
 type(
   int
 )
-"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 331 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 318 346
+"/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 359 "/Users/klim/Desktop/lab11_FP/out/production/lab11_FP/tmp/src/euler1/recursion.ml" 15 346 374
 type(
   int
 )
