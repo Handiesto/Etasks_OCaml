@@ -2,48 +2,20 @@ open! Recursion
 open! Tailrecursion
 open! Map
 open! Infinity_list
-let test() =
-   let expected = 80863 in
-   let actual = infinity_list.nth_prime 7915 in
-   assert (expected = actual);
+open! OUnit2
 
-   let expected = 4517 in
-   let actual = Recursion.nth_prime 613 in
-   assert (expected = actual);
+let test_nth_prime name expected n =
+  name >:: (fun _ -> assert_equal expected (Infinity_list.nth_prime n))
 
-   let expected = 104743 in
-   let actual = Recursion.nth_prime 10001 in
-   assert (expected = actual);
+let tests =
+  "test suite for nth_prime" >::: [
+    test_nth_prime "test 1" 80863 7915;
+    test_nth_prime "test 2" 4517 613;
+    test_nth_prime "test 3" 104743 10001;
+    test_nth_prime "test 4" 58567 5927;
+    test_nth_prime "test 5" 1794439 134677;
+  ]
 
-   let expected = 58567 in
-   let actual = Recursion.nth_prime 5927 in
-   assert (expected = actual);
-
-   let expected = 1794439 in
-   let actual = Recursion.nth_prime 134677 in
-   assert (expected = actual);
-
-   let expected = 80863 in
-   let actual = Map.nth_prime 7915 in
-   assert (expected = actual);
-
-   let expected = 4517 in
-   let actual = Map.nth_prime 613 in
-   assert (expected = actual);
-
-   let expected = 104743 in
-   let actual = Map.nth_prime 10001 in
-   assert (expected = actual);
-
-   let expected = 58567 in
-   let actual = Map.nth_prime 5927 in
-   assert (expected = actual);
-
-   let expected = 1794439 in
-   let actual = Map.nth_prime 134677 in
-   assert (expected = actual);
-
-    print_string("Tests passed...");
-    ()
-
-let () = test();
+let () =
+  run_test_tt_main tests;
+  print_endline "All tests passed.";

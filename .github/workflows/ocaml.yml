@@ -25,6 +25,7 @@ jobs:
           opam install dune
           eval $(opam config env)
           opam install -t . --deps-only
+          opam install ounit2.2.2.6
           opam exec -- dune build
       - name: Test
         run: opam exec -- dune runtest
