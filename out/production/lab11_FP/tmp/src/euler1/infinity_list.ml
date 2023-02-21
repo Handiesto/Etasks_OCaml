@@ -16,7 +16,7 @@ let nth_prime n =
   let rec nth_prime_helper n primes =
     match Lazy.force primes with
     | hd :: tl -> if n = 1 then hd else nth_prime_helper (n-1) (lazy tl)
-    | [] -> failwith "unexpected empty list"
+    | [] -> failwith "unexpected empty lis"
   in
   nth_prime_helper n primes
 
