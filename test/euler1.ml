@@ -8,7 +8,7 @@ let test_nth_prime name expected n =
   name >:: (fun _ -> assert_equal expected (Recursion.nth_prime n))
 
 let test_nth_prime_tailrec name expected n =
-  name >:: (fun _ -> assert_equal expected (Tailrecursion.nth_prime n))
+  name >:: (fun _ -> assert_equal expected (Tailrecursion.nth_prime n 2 0))
 
 let test_nth_prime_map name expected n =
   name >:: (fun _ -> assert_equal expected (Map.nth_prime n))

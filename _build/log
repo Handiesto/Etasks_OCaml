@@ -1,9 +1,9 @@
-# dune runtest
+# dune exec ./infinity_list.exe
 # OCAMLPARAM: unset
 # Shared cache: disabled
 # Workspace root: /Users/klim/Desktop/lab11_FP
 # Auto-detected concurrency: 10
-$ /opt/homebrew/bin/ocamlc.opt -config > /var/folders/v5/lkcktmys2_l5q6s4syd1bkhh0000gn/T/dune_4bed06_output
+$ /opt/homebrew/bin/ocamlc.opt -config > /var/folders/v5/lkcktmys2_l5q6s4syd1bkhh0000gn/T/dune_56f6f5_output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"
