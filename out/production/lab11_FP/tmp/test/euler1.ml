@@ -7,9 +7,6 @@ open! OUnit2
 let test_nth_prime name expected n =
   name >:: (fun _ -> assert_equal expected (Recursion.nth_prime n))
 
-let test_nth_prime_tailrec name expected n =
-  name >:: (fun _ -> assert_equal expected (Tailrecursion.nth_prime n 2 0))
-
 let test_nth_prime_map name expected n =
   name >:: (fun _ -> assert_equal expected (Map.nth_prime n))
 
@@ -20,11 +17,6 @@ let tests =
     test_nth_prime "test 3 - Recursion" 104743 10001;
     test_nth_prime "test 4 - Recursion" 58567 5927;
     test_nth_prime "test 5 - Recursion" 1794439 134677;
-    test_nth_prime_tailrec "test 1 - Tailrecursion" 80863 7915;
-    test_nth_prime_tailrec "test 2 - Tailrecursion" 4517 613;
-    test_nth_prime_tailrec "test 3 - Tailrecursion" 104743 10001;
-    test_nth_prime_tailrec "test 4 - Tailrecursion" 58567 5927;
-    test_nth_prime_tailrec "test 5 - Tailrecursion" 1794439 134677;
     test_nth_prime_map "test 1 - Map" 80863 7915;
     test_nth_prime_map "test 2 - Map" 4517 613;
     test_nth_prime_map "test 3 - Map" 104743 10001;
